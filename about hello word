@@ -1,0 +1,2 @@
+name="zyx"
+println("Hello $name")    #string "";character'';insert variable $
